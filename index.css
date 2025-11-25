@@ -19,7 +19,7 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 700px;
+    height: 100%;
 }
 
 .first {
